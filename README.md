@@ -4,7 +4,7 @@
 My custom theme for emacs
 
 ## Install
-1) 
+1) add to emacs init file
 ```lisp  
 (add-to-list 'custom-theme-load-path "/path/to/folder/with/theme")
 ```
