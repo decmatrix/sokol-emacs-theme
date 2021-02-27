@@ -2,7 +2,7 @@
 ;; sokol-theme.el -- Sokol Theme special for subset of lisp language
 
 ;; Author: Bohdan Sokolovksyi
-;; Version: 0.0.1 beta
+;; Version: 0.0.1
 ;; Package-Requires: ((emcas "26"))
 ;; URL: ---
 
