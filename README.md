@@ -4,9 +4,12 @@
 My custom theme for emacs
 
 ## Install
-1) ```lisp  (add-to-list 'custom-theme-load-path "/path/to/folder/with/theme")```
+1) 
+```lisp  
+(add-to-list 'custom-theme-load-path "/path/to/folder/with/theme")
+```
 2) M-x customize-themes
-3) choose sokol-theme
+3) choose `sokol-theme`
 
 ## Demonstration 
 
