@@ -13,6 +13,6 @@ My custom theme for emacs
 
 ## Demonstration 
 
-1.[demo-1](https://github.com/bohdan-sokolovskyi/sokol-emacs-theme/blob/master/demo/demo-1.png)
+1. [demo-1](https://github.com/bohdan-sokolovskyi/sokol-emacs-theme/blob/master/demo/demo-1.png)
 
-2.[demo-2](https://github.com/bohdan-sokolovskyi/sokol-emacs-theme/blob/master/demo/demo-2.png)
+2. [demo-2](https://github.com/bohdan-sokolovskyi/sokol-emacs-theme/blob/master/demo/demo-2.png)
