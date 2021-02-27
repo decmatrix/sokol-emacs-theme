@@ -1,2 +1,2 @@
-# sokol-emacs-theme
+# Sokol emacs theme
 My custom theme for emacs
