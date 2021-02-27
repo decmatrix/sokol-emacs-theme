@@ -4,7 +4,7 @@
 ;; Author: Bohdan Sokolovksyi
 ;; Version: 0.0.1
 ;; Package-Requires: ((emcas "26"))
-;; URL: ---
+;; URL: https://github.com/bohdan-sokolovskyi/sokol-emacs-theme
 
 ;;; Code:
 (require 'cl-lib)
